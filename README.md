@@ -1,0 +1,1 @@
+This project uses Arduino to create a smart collision detection system for autonomous vehicles. It integrates ultrasonic sensors to continuously monitor surroundings, detect nearby obstacles, and trigger alerts to prevent collisions. Designed for real-time responsiveness, it improves the safety and reliability of driverless navigation
